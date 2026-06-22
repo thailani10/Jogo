@@ -11,7 +11,7 @@
     margin: 0 auto;
     position: relative;
     overflow: hidden;
-    background-image: url(assets/imgs/fundo.jpeg);
+    background-image: url(fundo.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
